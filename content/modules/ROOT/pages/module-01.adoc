@@ -12,9 +12,7 @@ _A brief introduction to the workshop, including tips for the lab environment._
 
 Welcome to the Ansible development tools workshop!
 
-image::un-11-2025_at_17.03.29-image.png[Ansible Development Tools, opts="border"]
-
-In this lab, you will learn how to create, test, and deploy an Ansible collection using the `ansible-creator` tool, the Visual Studio Code (VS Code) editor, and the official Ansible extension for VS Code.
+In this lab, you will learn how to create, test, and deploy an Ansible collection using the Ansible development tools, including `ansible-creator`, `ansible-lint`, `ansible-navigator`, `molecule`, the Visual Studio Code (VS Code) editor, and the official Ansible extension for VS Code.
 
 ---
 
