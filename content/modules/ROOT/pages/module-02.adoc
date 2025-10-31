@@ -28,8 +28,6 @@ First, let's explore the Ansible extension for VS Code.
 .   **Check the installed extensions section in VS Code**, look for the Ansible extension and click the blue **Reload** button to update to the latest version.
 
 .   Now locate and open the **Ansible extension icon on the sidebar of VS Code** and click on it. You will see the Ansible sidebar with three sections: (1) *Ansible Development Tools*, (2) *Ansible Lightspeed*, and (3) *Ansible Lightspeed Feedback*.
-+
-image::../assets/images/image.png[Ansible icon in the VS Code sidebar, opts="border"]
 
 .   **Collapse the Lightspeed sections** to simplify the view, as you will be working with *Ansible Development Tools*.
 +
@@ -47,10 +45,7 @@ image::../assets/images/Apr-29-2025_at_13.51.07-image.png[Creating a Collection 
 * **Namespace:** `mynamespace`
 * **Collection:** `mycollection`
 * **Init path:** `/home/rhel/myansibleproject/collections/ansible_collections/mynamespace/mycollection`
-
 * **Check** the box for `Install collection from source code (editable mode)`.
-+
-image::../assets/images/image.png[Collection creation form, opts="border"]
 
 .   **Create the collection** by clicking the blue **Create** button. After a few moments, you should see the creation details appear in the *Logs* box.
 
