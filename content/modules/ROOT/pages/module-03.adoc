@@ -72,10 +72,10 @@ adt --version
 +
 [WARNING]
 ====
-Notice the command is `adt` (Ansible Development Tools). In the next task, you will use `ade` (Ansible Development Environment). These are different tools.
+Notice the command is `adt` (Ansible Development Tools). The next command will be different, pay atention!
 ====
 +
-The output should look similar to this (versions may differ):
+The output should look similar to this (**versions may differ, ignore the version numbers**):
 +
 [source,text]
 ----
@@ -96,6 +96,12 @@ tox-ansible                  25.4.0
 === Task 4: Manage Dependencies with `ade`
 
 Now you will use `ade` to install the dependencies you declared in `galaxy.yml`.
++
+[WARNING]
+====
+Notice the command is `ade` (Ansible Development Environment). This is different from the previous one!
+====
++
 
 .   **Install the collection dependencies** by running the following command in the VS Code terminal. This will install your collection and its dependencies into the virtual environment.
 +
