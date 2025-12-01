@@ -41,13 +41,15 @@ Next, you will scaffold a new Ansible collection.
 +
 image::../assets/images/Apr-29-2025_at_13.51.07-image.png[Creating a Collection project, opts="border"]
 
+**PLEASE TYPE THE FOLLOWING:**
+
 .   **Fill out the collection details** in the new tab that opens. Use the following information:
 * **Namespace:** `mynamespace`
 * **Collection:** `mycollection`
 * **Init path:** `/home/rhel/myansibleproject/collections/ansible_collections/mynamespace/mycollection`
-* **Check** the box for `Install collection from source code (editable mode)`.
-
-.   **Create the collection** by clicking the blue **Create** button. After a few moments, you should see the creation details appear in the *Logs* box.
+* **Check** the box for `Install collection from source code (editable mode)`
+* **Create the collection** by clicking the blue **Create** button. 
+* After a few moments, you should see the creation details appear in the *Logs* box.
 
 === Task 3: Create a Playbook Project
 
